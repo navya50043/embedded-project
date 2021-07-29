@@ -19,10 +19,4 @@
 ![Digital temperature](https://user-images.githubusercontent.com/66767118/127319721-f5dd5a17-5f34-44f6-964d-226b6d08f03a.png)
 ### Functioning
 ![function](https://user-images.githubusercontent.com/66767118/127319845-c3a357c3-79e3-4000-a726-0cbbc39becfa.gif)
-
-
-
-
-
-
-
+[![Cppcheck](https://github.com/navya50043/embedded-project/actions/workflows/CodeQuality.yml/badge.svg)](https://github.com/navya50043/embedded-project/actions/workflows/CodeQuality.yml)
