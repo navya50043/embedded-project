@@ -14,14 +14,7 @@
 |PWM_70%|PWM_95%|
 |   |   |
 ![PWM_70](https://user-images.githubusercontent.com/66767118/127318903-475e35b0-20b0-4b9f-8086-dd45d9d85d19.png)|![PWM_95](https://user-images.githubusercontent.com/66767118/127318938-8a597255-25da-4a88-9361-0000b8485dbd.png)
-### Activity 4
-### We can visualize digital temperature values in serial monitor using USART Protocol
-![Digital temperature](https://user-images.githubusercontent.com/66767118/127319721-f5dd5a17-5f34-44f6-964d-226b6d08f03a.png)
-### Functioning
-![function](https://user-images.githubusercontent.com/66767118/127319845-c3a357c3-79e3-4000-a726-0cbbc39becfa.gif)
-
 ##
 |Build|Compile-linux|Codacy|Code Grade|Code inspector|
 |:---:|:---:|:---:|:---:|:---:|
 [![Cppcheck](https://github.com/navya50043/embedded-project/actions/workflows/CodeQuality.yml/badge.svg)](https://github.com/navya50043/embedded-project/actions/workflows/CodeQuality.yml) |[![Compile-Linux](https://github.com/navya50043/embedded-project/actions/workflows/compile.yml/badge.svg)](https://github.com/navya50043/embedded-project/actions/workflows/compile.yml) |[![Codacy Badge](https://app.codacy.com/project/badge/Grade/d0da63bcb3a94c2f98cc8883f28e7079)](https://www.codacy.com/gh/navya50043/embedded-project/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=navya50043/embedded-project&amp;utm_campaign=Badge_Grade)| ![image](https://user-images.githubusercontent.com/66767118/127456761-33c1975e-5021-4a1c-9096-d43d4cabc87a.png) |![image](https://user-images.githubusercontent.com/66767118/127456851-a4fb2a49-9813-48bd-aacc-9fea753fc009.png)
-
